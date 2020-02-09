@@ -6,8 +6,10 @@ Joc 3D
 Sas Anamaria
 
 ## Descriere: 
-Aplicatie android tip joc, dezvoltata pentru a te putea relaxa in timpul liber.
-Creata dupa modelul MVC.
+Aplicația este un joc pentru sistemul de operare Android, dezvoltat în Unity 3D, folosind modelul MVC și limbajul de programare C#. Pentru a putea să te joci, trebuie să folosești senzori de la telefon: touch pentru salt și giroscopul pentru a deplasa mingea pe direcția dorită.
+
+Jocul este alcătuit dintr-un tutorial pentru a te invăța cum să controlezi bila și trei stagii. Pentru ca jocul să fie mai distractiv, ai posibilitatea de a strânge monede, iar ca să treci la stagiul următor trebuie să parcurgi harta dintr-un capăt în celălalt pentru a ajunge la punctul de final al stagiului respectiv fără a cădea, iar dacă vei cădea vei pierde o viață din cele 3. 
+
 
 ## Sistem:
 * Ca sistem de operare ruleaza pe: Android.
